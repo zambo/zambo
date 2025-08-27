@@ -19,7 +19,7 @@ Nowadays I write mainly React with TypeScript, but I'm comfortable with other st
 📍 *Currently based in Porto Alegre, seeking new opportunities*
 
 <!--START_SECTION:activity-->
-![Top Languages](https://zambo-git-stats.vercel.app/api/top-langs/?username=zambo&layout=compact&count_private=true&theme=dark)
+![Top Languages](https://zambo-git-stats.vercel.app/api/top-langs/?username=zambo&layout=compact&count_private=true&theme=dark&cache_seconds=180)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zambo&theme=react-dark)
 
