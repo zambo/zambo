@@ -23,7 +23,7 @@ Nowadays I write mainly React with TypeScript, but I'm comfortable with other st
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zambo&theme=react-dark)
 
-![Profile Views](https://komarev.com/ghpvc/?username=zambo&color=brightgreen)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=zambo&color=brightgreen) -->
 <!--END_SECTION:activity-->
 
 <!--
