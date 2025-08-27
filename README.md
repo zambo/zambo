@@ -26,6 +26,11 @@ Nowadays I write mainly React with TypeScript, but I'm comfortable with other st
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=zambo&color=brightgreen) -->
 <!--END_SECTION:activity-->
 
+## 📊 A Note on My Contributions
+- Majority of my work lives in private repositories (NDAs)
+- Active across GitHub, Bitbucket, and client Git servers
+- Happy to discuss architectural patterns and solutions in detail
+
 <!--
 **zambo/zambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
